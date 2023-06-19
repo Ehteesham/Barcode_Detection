@@ -1,0 +1,17 @@
+D:/Barcode/DataSet/test/test_img_1.jpg,387,526,1738,1134,1d_barcode
+D:/Barcode/DataSet/test/test_img_10.jpg,34,179,988,810,1d_barcode
+D:/Barcode/DataSet/test/test_img_10.jpg,320,840,679,944,bar_number
+D:/Barcode/DataSet/test/test_img_11.jpg,50,259,1188,1011,1d_barcode
+D:/Barcode/DataSet/test/test_img_11.jpg,419,1028,823,1150,bar_number
+D:/Barcode/DataSet/test/test_img_12.jpg,282,1047,1378,1548,1d_barcode
+D:/Barcode/DataSet/test/test_img_12.jpg,486,1554,1196,1638,bar_number
+D:/Barcode/DataSet/test/test_img_2.jpg,46,191,971,752,1d_barcode
+D:/Barcode/DataSet/test/test_img_3.jpg,346,498,1739,1160,1d_barcode
+D:/Barcode/DataSet/test/test_img_4.jpg,732,21,1180,172,bar_number
+D:/Barcode/DataSet/test/test_img_5.jpg,474,19,914,180,bar_number
+D:/Barcode/DataSet/test/test_img_6.jpg,888,15,1332,164,bar_number
+D:/Barcode/DataSet/test/test_img_7.jpg,506,435,1736,1003,1d_barcode
+D:/Barcode/DataSet/test/test_img_8.jpg,535,442,1837,1055,1d_barcode
+D:/Barcode/DataSet/test/test_img_8.jpg,740,1064,1600,1192,bar_number
+D:/Barcode/DataSet/test/test_img_9.jpg,51,199,978,759,1d_barcode
+D:/Barcode/DataSet/test/test_img_9.jpg,326,762,757,856,bar_number
