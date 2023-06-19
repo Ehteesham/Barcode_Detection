@@ -6,3 +6,7 @@ The code for Faster RCNN for Open Images Dataset Keras is available at https://g
 
 # Report
 I have included a report in this repository that provides a detailed overview of the Faster RCNN algorithm. This report will help you to understand the algorithm.
+
+# Dataset
+The dataset is publicly available on Kaggle and can be accessed at the following URL: https://www.kaggle.com/datasets/ansariehteeshamaqeel/book-barcode-detection.
+The Book Barcode Detection Dataset on Kaggle is a meticulously curated collection of high-quality images, exclusively showcasing book barcodes. This dataset serves as a reliable foundation for training and evaluating barcode detection models, enabling researchers and developers to benchmark and advance their algorithms. By focusing specifically on book barcodes, we aim to provide a specialized resource tailored to the needs of professionals working in book-related domains.
